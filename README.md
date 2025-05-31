@@ -34,7 +34,7 @@ Zairy Studio is a responsive website designed for a university project in Playa 
 
 ## 🔗 Visit on GitHub Pages
 
-👉 [Zairy Studio Live Site](https://anthonygzm.github.io/ZairyStudioV2/)
+👉 [Zairy Studio Live Site](https://anthonygzm.github.io/ZairyStudio-V2/)
 
 
 ## 💻 How to Use
